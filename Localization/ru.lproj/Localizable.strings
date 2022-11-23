@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  JustTakeCar
+
+  Created by Евгений Буракевич on 22.11.22.
+  
+*/
+"Hello, do you have an account?" = "Здравствуйте, у вас есть аккаунт?";
+"POPULAR CARS" = "ПОПУЛЯРНЫЕ АВТО";
+"User account" = "Личный кабинет";
+" you have - \(bonus) bonus, \n 1 bonus = 1 usd" = " у вас - \(bonus) бонусов, \n 1 бонус = 1 usd";
+"Pay" = "Оплата";
+"Bonus" = "Бонусы";
+"Questions" = "Вопросы";
+"Recommedations" = "Рекомендации";
+"History" = "История";
+"Map" = "Карта";
+"Home" = "Домой";
+"Choose a car on the map" = "Выберите машину";
+"   Yes   " = "   Да   ";
+"   No   " = "   Нет   ";
+"User is not found" = "Пользователь не найден";
+"Invalid password" = "Неправильный пароль";
+"Enter your details" = "Введите ваши данные";
+"Login" = "Логин";
+"Password" = "Пароль";
+"     Enter     " = "     Ввести     ";
+"   Registration   " = "   Регистрация   ";
+"Step 1/5" = "Шаг 1/5";
+"enter email" = "введите email";
+"     next     " = "     далее     ";
+"Step 2/5" = "Шаг 2/5";
+"enter your phone number" = "укажите номер телефона";
+"enter date of birth" = "укажите дату рождения";
+"Step 3/5" = "Шаг 3/5";
+"Step 4/5" = "Шаг 4/5";
+"Take a photo of your driver's license" = "Сделайте селфи с правами";
+"Step 5/5" = "Шан 5/5";
+"create a login" = "придумайте логин";
+"create a password" = "придумайте пароль";
+"repeat password" = "повторите пароль";
+"To the beginning" = "В начало";
+"Step back" = "Шаг назад";
+"Hi, driver" = "Привет, водитель";
+"   Exit   " = "   Выйти   ";

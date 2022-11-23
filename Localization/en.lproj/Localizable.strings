@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  JustTakeCar
+
+  Created by Евгений Буракевич on 22.11.22.
+  
+*/
+"Hello, do you have an account?" = "Hello, do you have an account?";
+"POPULAR CARS" = "POPULAR CARS";
+"User account" = "User account";
+" you have - \(bonus) bonus, \n 1 bonus = 1 usd" = " you have - \(bonus) bonus, \n 1 bonus = 1 usd";
+"Pay" = "Pay";
+"Bonus" = "Bonus";
+"Questions" = "Questions";
+
+"Recommedations" = "Recommedations";
+"History" = "History";
+"Map" = "Map";
+"Home" = "Home";
+"Choose a car on the map" = "Choose a car on the map";
+"   Yes   " = "   Yes   ";
+"   No   " = "   No   ";
+"User is not found" = "User is not found";
+"Invalid password" = "Invalid password";
+"Enter your details" = "Enter your details";
+"Login" = "Login";
+"Password" = "Password";
+"     Enter     " = "     Enter     ";
+"   Registration   " = "   Registration   ";
+"Step 1/5" = "Step 1/5";
+"enter email" = "enter email";
+"     next     " = "     next     ";
+"Step 2/5" = "Step 2/5";
+"enter your phone number" = "enter your phone number";
+"enter date of birth" = "enter date of birth";
+"Step 3/5" = "Step 3/5";
+"Step 4/5" = "Step 4/5";
+"Take a photo of your driver's license" = "Take a photo of your driver's license";
+"Step 5/5" = "Step 5/5";
+"create a login" = "create a login";
+"create a password" = "create a password";
+"repeat password" = "repeat password";
+"To the beginning" = "To the beginning";
+"Step back" = "Step back";
+"Hi, driver" = "Hi, driver";
+"   Exit   " = "   Exit   ";
+
